@@ -1,6 +1,6 @@
 # Cryptanalysis recopilation
 
-This is a big recopilation of cryptanalisis tools/books/papers and crypto challenges/solutions. I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
+This is a big recopilation of cryptanalisis tools/books/papers and crypto challenges/solutions (CTFs). I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
 
 # Crypto challenges & write-ups (CTFs)
 
@@ -36,7 +36,7 @@ https://github.com/d4rkvaibhav/picoCTF-2018-Writeups/tree/master/Cryptography
 
 * https://cryptopals.com/
 
-# Cryptanalysis tool useful for CTFs
+# Cryptanalysis tool
 
 * RSA primes numbers /RSA/CTFs
 https://github.com/ihebski/factordb
@@ -104,14 +104,85 @@ https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
 
 http://www.fourmilab.ch/random/
 
-The Python Cryptography Toolkit https://www.dlitz.net/software/pycrypto/
-
+*The Python Cryptography Toolkit https://www.dlitz.net/software/pycrypto/
 https://gchq.github.io/CyberChef/
 
+* https://github.com/Deadlyelder/Tools-for-Cryptanalysis
 
-https://github.com/Deadlyelder/Tools-for-Cryptanalysis
+* http://ganzua.sourceforge.net/en/index.html
 
-http://ganzua.sourceforge.net/en/index.html
+* https://www.cryptool.org/de/
+
+* Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks. This code is extraordinarily slow, DON'T JUDGE ME!!!
+https://github.com/robertdavidgraham/pemcrack
+
+* https://github.com/Deadlyelder/Tools-for-Cryptanalysis
+
+* https://github.com/ashutosh1206/Crypton
+* https://github.com/google/wycheproof
+
+* https://github.com/vikasnkumar/wisecracker
+
+* https://github.com/hkscy/Basic-SPN-cryptanalysis
+
+
+# Cryptanalysis Books
+
+* https://www.nsa.gov/news-features/declassified-documents/military-cryptanalysis/
+
+
+# Papers & links
+
+https://github.com/prajithrg/Accoustic_Cryptanalysis
+https://github.com/mmeh/simon-speck-cryptanalysis
+https://en.wikipedia.org/wiki/Cryptanalysis
+
+# TLS/SSL - HTTP/s attacks
+
+* https://en.wikipedia.org/wiki/CRIME
+* https://en.wikipedia.org/wiki/BREACH
+* https://en.wikipedia.org/wiki/Heartbleed
+Revisiting SSL/TLS Implementations: New Bleichenbacher Side Channels and Attacks
+https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-meyer.pdf
+
+The 9 Lives of Bleichenbacher's CAT: New Cache ATtacks on TLS Implementations
+https://eprint.iacr.org/2018/1173
+
+https://en.wikipedia.org/wiki/POODLE
+
+SSL/TLS and PKI History
+A comprehensive history of the most important events that shaped the SSL/TLS and PKI ecosystem
+https://www.feistyduck.com/ssl-tls-and-pki-history/
+
+https://en.wikipedia.org/wiki/FREAK
+
+https://mitls.org/pages/attacks/SMACK
+
+logjam - https://weakdh.org/
+https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf
+
+https://www.mitls.org/pages/attacks/SLOTH
+https://www.mitls.org/downloads/transcript-collisions.pdf
+
+
+https://drownattack.com/drown-attack-paper.pdf
+https://drownattack.com/
+
+https://sweet32.info/
+
+https://crocs.fi.muni.cz/_media/public/papers/nemec_roca_ccs17_preprint.pdf
+
+https://en.wikipedia.org/wiki/ROCA_vulnerability
+https://en.wikipedia.org/wiki/Coppersmith%27s_attack
+
+https://robotattack.org/
+
+
+
+
+
+
+
 
 
 
