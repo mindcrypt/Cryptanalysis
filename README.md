@@ -177,6 +177,25 @@ https://en.wikipedia.org/wiki/Coppersmith%27s_attack
 
 https://robotattack.org/
 
+https://en.wikipedia.org/wiki/Boomerang_attack
+https://en.wikipedia.org/wiki/Brute-force_attack
+https://en.wikipedia.org/wiki/Davies_attack
+https://en.wikipedia.org/wiki/Differential_cryptanalysis
+https://en.wikipedia.org/wiki/Impossible_differential_cryptanalysis
+https://en.wikipedia.org/wiki/Integral_cryptanalysis
+https://en.wikipedia.org/wiki/Linear_cryptanalysis
+https://en.wikipedia.org/wiki/Meet-in-the-middle_attack
+https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
+https://en.wikipedia.org/wiki/Related-key_attack
+https://en.wikipedia.org/wiki/Slide_attack
+https://en.wikipedia.org/wiki/XSL_attack
+https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
+https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+https://en.wikipedia.org/wiki/Power_analysis
+https://en.wikipedia.org/wiki/Replay_attack
+https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+https://en.wikipedia.org/wiki/Timing_attack
+
 
 
 
