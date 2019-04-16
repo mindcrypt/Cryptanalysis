@@ -30,81 +30,81 @@ https://github.com/kudelskisecurity/cryptochallenge18
 * picoCTF-2018-Writeups/Cryptography/
 https://github.com/d4rkvaibhav/picoCTF-2018-Writeups/tree/master/Cryptography
 
-* https://github.com/ashutosh1206/Crypto-CTF-Writeups/tree/master/2018
+* Writeups about several challenges from CTFs: https://github.com/ashutosh1206/Crypto-CTF-Writeups/tree/master/2018
 
-* https://github.com/ashutosh1206/Crypto-CTF-Writeups/tree/master/2017
+* Writeups about several challenges from CTFs: https://github.com/ashutosh1206/Crypto-CTF-Writeups/tree/master/2017
 
-* https://cryptopals.com/
+* The cryptopals crypto challenges - https://cryptopals.com/
 
 # Cryptanalysis tool
 
 * RSA primes numbers /RSA/CTFs
 https://github.com/ihebski/factordb
 
-https://sourceforge.net/projects/msieve/
+* https://sourceforge.net/projects/msieve/
 
-https://code.google.com/archive/p/hash-identifier/source
+* https://code.google.com/archive/p/hash-identifier/source
 
 * Nonce-Disrespecting Adversaries: Practical Forgery Attacks on GCM in TLS
 https://github.com/nonce-disrespect/nonce-disrespect
 
-PkCrack - Breaking PkZip-encryption
+* PkCrack - Breaking PkZip-encryption
 https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html
 
-A portable, padding oracle exploit API
+* A portable, padding oracle exploit API
 https://github.com/mwielgoszewski/python-paddingoracle
 
-CRC RevEng: arbitrary-precision CRC calculator and algorithm finder
+* CRC RevEng: arbitrary-precision CRC calculator and algorithm finder
 http://reveng.sourceforge.net/
 
-This tool can decipher captured SSH sessions where one of the two ends uses a vulnerable OpenSSL (debian OpenSSL PRNG vuln).
+* This tool can decipher captured SSH sessions where one of the two ends uses a vulnerable OpenSSL (debian OpenSSL PRNG vuln).
 https://github.com/jjyg/ssh_decoder
 
-Transparent SSL/TLS interception 
+* Transparent SSL/TLS interception 
 https://github.com/droe/sslsplit
 
-A tool to analyze multi-byte xor cipher
+* A tool to analyze multi-byte xor cipher
 https://github.com/hellman/xortool
 
-YAFU (with assistance from other free software) uses the most powerful modern algorithms (and implementations of them) to factor input integers in a completely automated way. The automation within YAFU is state-of-the-art, combining factorization algorithms in an intelligent and adaptive methodology that minimizes the time to find the factors of arbitrary input integers. Most algorithm implementations are multi-threaded, allowing YAFU to fully utilize multi- or many-core processors (including SNFS, GNFS, SIQS, and ECM).
-
+* YAFU (with assistance from other free software) uses the most powerful modern algorithms (and implementations of them) to factor input integers in a completely automated way. Most algorithm implementations are multi-threaded, allowing YAFU to fully utilize multi- or many-core processors (including SNFS, GNFS, SIQS, and ECM).
 https://sourceforge.net/projects/yafu/
 
-cribdrag - an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys
+* cribdrag - an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys
 https://github.com/SpiderLabs/cribdrag
 
-https://www.win.tue.nl/hashclash/
+* https://www.win.tue.nl/hashclash/
 
-A tool for predicting the output of random number generators
+* A tool for predicting the output of random number generators
 https://github.com/ALSchwalm/foresight
 
-An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
+* An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 https://github.com/nccgroup/featherduster
 
-hashkill password recovery tool http://www.gat3way.eu/hashkill
+* hashkill password recovery tool http://www.gat3way.eu/hashkill
 
-A tool to exploit the hash length extension attack in various hashing algorithms
+* A tool to exploit the hash length extension attack in various hashing algorithms
 https://github.com/bwall/HashPump
 
-A tool to exploit the hash length extension attack in various hashing algorithms
+* A tool to exploit the hash length extension attack in various hashing algorithms
 https://github.com/mheistermann/HashPump-partialhash
 
-RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+* RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 https://github.com/Ganapati/RsaCtfTool
 
-rsatool can be used to calculate RSA and RSA-CRT parameters
+* rsatool can be used to calculate RSA and RSA-CRT parameters
 https://github.com/ius/rsatool
 
-http://cado-nfs.gforge.inria.fr/
+* http://cado-nfs.gforge.inria.fr/
 
-http://factordb.com/
+* http://factordb.com/
 
-http://rumkin.com/tools/cipher/
-https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
+* http://rumkin.com/tools/cipher/
 
-http://www.fourmilab.ch/random/
+* https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html
 
-*The Python Cryptography Toolkit https://www.dlitz.net/software/pycrypto/
+* http://www.fourmilab.ch/random/
+
+* The Python Cryptography Toolkit https://www.dlitz.net/software/pycrypto/
 https://gchq.github.io/CyberChef/
 
 * https://github.com/Deadlyelder/Tools-for-Cryptanalysis
@@ -119,82 +119,78 @@ https://github.com/robertdavidgraham/pemcrack
 * https://github.com/Deadlyelder/Tools-for-Cryptanalysis
 
 * https://github.com/ashutosh1206/Crypton
+
 * https://github.com/google/wycheproof
 
 * https://github.com/vikasnkumar/wisecracker
 
 * https://github.com/hkscy/Basic-SPN-cryptanalysis
 
-
 # Cryptanalysis Books
 
 * https://www.nsa.gov/news-features/declassified-documents/military-cryptanalysis/
 
+# TLS/SSL - HTTP/s attacks
+
+* SSL/TLS and PKI History. A comprehensive history of the most important events that shaped the SSL/TLS and PKI ecosystem
+https://www.feistyduck.com/ssl-tls-and-pki-history/
+
+* https://en.wikipedia.org/wiki/CRIME
+
+* https://en.wikipedia.org/wiki/BREACH
+
+* https://en.wikipedia.org/wiki/Heartbleed
+
+* Revisiting SSL/TLS Implementations: New Bleichenbacher Side Channels and Attacks
+https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-meyer.pdf
+
+* The 9 Lives of Bleichenbacher's CAT: New Cache ATtacks on TLS Implementations
+https://eprint.iacr.org/2018/1173
+
+* https://en.wikipedia.org/wiki/POODLE
+
+* https://en.wikipedia.org/wiki/FREAK
+
+* https://mitls.org/pages/attacks/SMACK
+
+* logjam - https://weakdh.org/
+
+* https://www.mitls.org/pages/attacks/SLOTH
+
+* https://drownattack.com/
+
+* https://sweet32.info/
+
+* https://en.wikipedia.org/wiki/ROCA_vulnerability
+
+* https://en.wikipedia.org/wiki/Coppersmith%27s_attack
+
+* https://robotattack.org/
+
 
 # Papers & links
 
-https://github.com/prajithrg/Accoustic_Cryptanalysis
-https://github.com/mmeh/simon-speck-cryptanalysis
-https://en.wikipedia.org/wiki/Cryptanalysis
-
-# TLS/SSL - HTTP/s attacks
-
-* https://en.wikipedia.org/wiki/CRIME
-* https://en.wikipedia.org/wiki/BREACH
-* https://en.wikipedia.org/wiki/Heartbleed
-Revisiting SSL/TLS Implementations: New Bleichenbacher Side Channels and Attacks
-https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-meyer.pdf
-
-The 9 Lives of Bleichenbacher's CAT: New Cache ATtacks on TLS Implementations
-https://eprint.iacr.org/2018/1173
-
-https://en.wikipedia.org/wiki/POODLE
-
-SSL/TLS and PKI History
-A comprehensive history of the most important events that shaped the SSL/TLS and PKI ecosystem
-https://www.feistyduck.com/ssl-tls-and-pki-history/
-
-https://en.wikipedia.org/wiki/FREAK
-
-https://mitls.org/pages/attacks/SMACK
-
-logjam - https://weakdh.org/
-https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf
-
-https://www.mitls.org/pages/attacks/SLOTH
-https://www.mitls.org/downloads/transcript-collisions.pdf
-
-
-https://drownattack.com/drown-attack-paper.pdf
-https://drownattack.com/
-
-https://sweet32.info/
-
-https://crocs.fi.muni.cz/_media/public/papers/nemec_roca_ccs17_preprint.pdf
-
-https://en.wikipedia.org/wiki/ROCA_vulnerability
-https://en.wikipedia.org/wiki/Coppersmith%27s_attack
-
-https://robotattack.org/
-
-https://en.wikipedia.org/wiki/Boomerang_attack
-https://en.wikipedia.org/wiki/Brute-force_attack
-https://en.wikipedia.org/wiki/Davies_attack
-https://en.wikipedia.org/wiki/Differential_cryptanalysis
-https://en.wikipedia.org/wiki/Impossible_differential_cryptanalysis
-https://en.wikipedia.org/wiki/Integral_cryptanalysis
-https://en.wikipedia.org/wiki/Linear_cryptanalysis
-https://en.wikipedia.org/wiki/Meet-in-the-middle_attack
-https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
-https://en.wikipedia.org/wiki/Related-key_attack
-https://en.wikipedia.org/wiki/Slide_attack
-https://en.wikipedia.org/wiki/XSL_attack
-https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
-https://en.wikipedia.org/wiki/Man-in-the-middle_attack
-https://en.wikipedia.org/wiki/Power_analysis
-https://en.wikipedia.org/wiki/Replay_attack
-https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
-https://en.wikipedia.org/wiki/Timing_attack
+* https://github.com/prajithrg/Accoustic_Cryptanalysis
+* https://github.com/mmeh/simon-speck-cryptanalysis
+* https://en.wikipedia.org/wiki/Cryptanalysis
+* https://en.wikipedia.org/wiki/Boomerang_attack
+* https://en.wikipedia.org/wiki/Brute-force_attack
+* https://en.wikipedia.org/wiki/Davies_attack
+* https://en.wikipedia.org/wiki/Differential_cryptanalysis
+* https://en.wikipedia.org/wiki/Impossible_differential_cryptanalysis
+* https://en.wikipedia.org/wiki/Integral_cryptanalysis
+* https://en.wikipedia.org/wiki/Linear_cryptanalysis
+* https://en.wikipedia.org/wiki/Meet-in-the-middle_attack
+* https://en.wikipedia.org/wiki/Mod_n_cryptanalysis
+* https://en.wikipedia.org/wiki/Related-key_attack
+* https://en.wikipedia.org/wiki/Slide_attack
+* https://en.wikipedia.org/wiki/XSL_attack
+* https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
+* https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+* https://en.wikipedia.org/wiki/Power_analysis
+* https://en.wikipedia.org/wiki/Replay_attack
+* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+* https://en.wikipedia.org/wiki/Timing_attack
 
 
 
