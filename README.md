@@ -1,6 +1,4 @@
-# Cryptanalysis
-A big recopilation about crypto challenges &amp; solutions
+# Cryptanalysis recopilation
 
-This is the first version of useful CTF tools cheat sheets. I'm planning to update them with new useful tools.
-Thanks to share for a good advice to add the links for tools. Here are the links to the tools from cheat sheets:
+This is a big recopilation of cryptanalisis tools/books/papers and crypto challenges/solutions. I'm planning to update it periodically. If you know some good information in this direction please ping me ;)
 
