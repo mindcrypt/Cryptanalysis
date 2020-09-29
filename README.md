@@ -36,6 +36,22 @@ https://github.com/d4rkvaibhav/picoCTF-2018-Writeups/tree/master/Cryptography
 
 * The cryptopals crypto challenges - https://cryptopals.com/
 
+* https://github.com/AntonKueltz/cryptopals
+
+* https://potatopla.net/crypto/
+
+* https://www.cryptoclub.org/
+
+* http://hkopp.github.io/2019/08/writeup-crypto-ctf
+
+* https://cryp.toc.tf/
+
+* https://github.com/ValarDragon/CTF-Crypto
+
+* https://github.com/sonickun/ctf-crypto-writeups
+
+* CTF write-ups written by me. Mostly crypto! (2020, 2019...) - https://github.com/pcw109550/write-up
+
 # Cryptanalysis tool
 
 * RSA primes numbers /RSA/CTFs
@@ -126,11 +142,17 @@ https://github.com/robertdavidgraham/pemcrack
 
 * https://github.com/hkscy/Basic-SPN-cryptanalysis
 
+* https://github.com/FlameOfIgnis/CtfCryptoTool
+
+* https://github.com/mindcrypt/cracking
+
 # Cryptanalysis Books
 
 * https://www.nsa.gov/news-features/declassified-documents/military-cryptanalysis/
 
 # TLS/SSL - HTTP/s attacks
+
+*  Seguridad en el protocolo SSL-TLS. Ataques criptoanaliticos modernos. https://github.com/mindcrypt/libros/blob/master/Book.%20Seguridad%20en%20el%20protocolo%20SSL-TLS.%20Ataques%20criptoanaliticos%20modernos.%20Dr.%20Alfonso%20Mu%C3%B1oz%20-%2027092020.pdf
 
 * SSL/TLS and PKI History. A comprehensive history of the most important events that shaped the SSL/TLS and PKI ecosystem
 https://www.feistyduck.com/ssl-tls-and-pki-history/
