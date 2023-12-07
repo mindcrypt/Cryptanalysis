@@ -152,7 +152,9 @@ https://github.com/robertdavidgraham/pemcrack
 
 * https://www.nsa.gov/news-features/declassified-documents/military-cryptanalysis/ NOT WORKING
 * [Military Cryptanalysis - Part I - National Security Agency](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_241/41748389078762.pdf)
+* [Military Cryptanalysis - Part II](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_254/41752109079130.pdf)
 * [Military Cryptanalysis - Part III](https://www.governmentattic.org/39docs/NSAmilitaryCryptalyticsPt3_1977.pdf)
+* [Military Cryptanalysis - Part IV](https://www.nsa.gov/Portals/75/documents/news-features/declassified-documents/friedman-documents/publications/FOLDER_452/41749819078904.pdf)
 
 # TLS/SSL - HTTP/s attacks
 
